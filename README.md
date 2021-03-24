@@ -6,7 +6,7 @@ Submitted by: Alexander Oei
 
 Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+[Link to project]https://oasis-bead-digit.glitch.me/
 
 ## Required Functionality
 
