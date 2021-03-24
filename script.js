@@ -102,7 +102,7 @@ function timerF(seconds){
 
 function clear(){
   clearInterval(timer);
-  console.log('cleared')
+  
 }
 
 function loseGame(){
